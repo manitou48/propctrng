@@ -1,0 +1,6 @@
+Simple demo of propeller gcc and pasm.  Uses Chip Gracey's Real Random v1.2
+true random number generatr (TRNG) in PASM on a cog.  Makefile assumes this
+is part of gcc demos/ directory
+
+http://www.parallax.com/propellergcc
+http://obex.parallax.com/objects/62/
